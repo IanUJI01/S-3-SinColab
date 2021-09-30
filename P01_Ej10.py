@@ -2,7 +2,7 @@ from turtle import *
 
 turt = Turtle()
 
-centroX_1 = int(input('Introduce la coordenada X del centro del primero circulo: '))
+centroX_1 = int(input('Za Warudo: '))
 centroY_1 = int(input('Introduce la coordenada Y del centro del primero circulo: '))
 
 radio_1 = int(input('Introduce el radio del primer circulo: '))
