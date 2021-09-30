@@ -1,3 +1,5 @@
+print('programa para tocar los cojones con la totuguita')
+
 from turtle import *
 
 turt = Turtle()
